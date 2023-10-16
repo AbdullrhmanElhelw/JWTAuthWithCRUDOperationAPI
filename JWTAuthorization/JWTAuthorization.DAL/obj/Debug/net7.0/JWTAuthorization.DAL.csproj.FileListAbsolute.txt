@@ -1,0 +1,14 @@
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\bin\Debug\net7.0\JWTAuthorization.DAL.deps.json
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\bin\Debug\net7.0\JWTAuthorization.DAL.runtimeconfig.json
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\bin\Debug\net7.0\JWTAuthorization.DAL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\bin\Debug\net7.0\JWTAuthorization.DAL.pdb
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.csproj.AssemblyReference.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.AssemblyInfoInputs.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.AssemblyInfo.cs
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.csproj.CoreCompileInputs.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\refint\JWTAuthorization.DAL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.pdb
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\JWTAuthorization.DAL.genruntimeconfig.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.DAL\obj\Debug\net7.0\ref\JWTAuthorization.DAL.dll

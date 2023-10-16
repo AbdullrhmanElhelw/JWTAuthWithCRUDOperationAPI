@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SWsegkeNlMI8MBEnhzgjrNIShK87d/pomiB04zGD/5o=",
+  "Source": "JWTAuthorization.API",
+  "BasePath": "_content/JWTAuthorization.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

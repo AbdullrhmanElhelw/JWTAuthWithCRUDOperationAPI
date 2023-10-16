@@ -1,0 +1,15 @@
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\bin\Debug\net7.0\JWTAuthorization.BL.deps.json
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\bin\Debug\net7.0\JWTAuthorization.BL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\bin\Debug\net7.0\JWTAuthorization.BL.pdb
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\bin\Debug\net7.0\JWTAuthorization.DAL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\bin\Debug\net7.0\JWTAuthorization.DAL.pdb
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.csproj.AssemblyReference.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.AssemblyInfoInputs.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.AssemblyInfo.cs
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.csproj.CoreCompileInputs.cache
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.csproj.CopyComplete
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\refint\JWTAuthorization.BL.dll
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\JWTAuthorization.BL.pdb
+E:\APIs\JWTAuthorization\JWTAuthorization.BL\obj\Debug\net7.0\ref\JWTAuthorization.BL.dll
